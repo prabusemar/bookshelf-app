@@ -4,11 +4,10 @@ This is a bookshelf web app that allows you to keep track of your favorite books
 
 # Features
 
--Add books to your bookshelf
--Remove books from your bookshelf
--Mark books as read or unread
--Search your bookshelf for specific books
--Sort your bookshelf by title, author, or date added
+1. Add books to your bookshelf
+2. Remove books from your bookshelf
+3. Mark books as read or unread
+4. Search your bookshelf for specific books
 
 # Getting Started
 
