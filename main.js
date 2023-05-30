@@ -93,7 +93,7 @@ function createBookItem(book) {
     editButton.classList.add("edit-button");
     editButton.innerText = "Edit";
     editButton.addEventListener("click", () => {
-        window.location.href = `edit-book.html?id=${book.id}`;
+        window.location.replace(`edit-book.html?id=${book.id}`);
     });
     bookAction.append(editButton);
 
